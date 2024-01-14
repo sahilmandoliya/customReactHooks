@@ -2,4 +2,4 @@
 - useCopyToClipboard()
 - usePageBottom()
 - useHttp()
-- 
+- useDeviceDetect()
