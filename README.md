@@ -3,3 +3,4 @@
 - usePageBottom()
 - useHttp()
 - useDeviceDetect()
+- useMediaQuery()
