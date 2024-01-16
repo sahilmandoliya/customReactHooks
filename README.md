@@ -4,3 +4,4 @@
 - useHttp()
 - useDeviceDetect()
 - useMediaQuery()
+- userFetch()
