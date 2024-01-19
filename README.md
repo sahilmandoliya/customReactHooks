@@ -5,3 +5,4 @@
 - useDeviceDetect()
 - useMediaQuery()
 - userFetch()
+- useClickOutside()
