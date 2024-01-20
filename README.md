@@ -6,3 +6,4 @@
 - useMediaQuery()
 - userFetch()
 - useClickOutside()
+- useLocalStorage()
