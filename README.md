@@ -7,3 +7,4 @@
 - userFetch()
 - useClickOutside()
 - useLocalStorage()
+- useGeolocation()
