@@ -8,3 +8,4 @@
 - useClickOutside()
 - useLocalStorage()
 - useGeolocation()
+- useDebounce()
