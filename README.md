@@ -10,3 +10,4 @@
 - useGeolocation()
 - useDebounce()
 - useOnScreen()
+- useIdle()
