@@ -1,5 +1,5 @@
 # Making own React Hooks!
-- useCopyToClipboard()
+## - useCopyToClipboard()
   This hook provides a simple way to copy content to the clipboard. It typically returns a function that, when invoked, copies a specified text to the clipboard.
 - usePageBottom()
   The usePageBottom hook monitors the user's scroll position and triggers a callback when the bottom of the page is reached. This is useful for implementing infinite scrolling or loading more content as the user scrolls.
