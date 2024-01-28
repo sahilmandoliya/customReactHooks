@@ -1,4 +1,4 @@
-# Making own React Hooks!
+# Custom React Hooks!
 ## useCopyToClipboard()
   This hook provides a simple way to copy content to the clipboard. It typically returns a function that, when invoked, copies a specified text to the clipboard.
 ## usePageBottom()
