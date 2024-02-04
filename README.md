@@ -25,4 +25,6 @@
   The useIdle hook tracks whether the user is actively interacting with the application. It can be used to implement idle timeouts or trigger certain actions when the user becomes inactive.
 ## useDeviceOrientation()
   This hook provides information about the device's orientation, including tilt and rotation. It's useful for creating responsive layouts or interactive experiences based on device orientation.
+## useKeyPress()
+  A hook that tracks when a certain key or combination of keys is pressed.
 
