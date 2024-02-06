@@ -27,4 +27,6 @@
   This hook provides information about the device's orientation, including tilt and rotation. It's useful for creating responsive layouts or interactive experiences based on device orientation.
 ## useKeyPress()
   A hook that tracks when a certain key or combination of keys is pressed.
+## useAudioPlayer()
+  This hook provides an interface for controlling audio playback, including features like play, pause, volume control, and track navigation.
 
