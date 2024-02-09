@@ -29,4 +29,6 @@
   A hook that tracks when a certain key or combination of keys is pressed.
 ## useAudioPlayer()
   This hook provides an interface for controlling audio playback, including features like play, pause, volume control, and track navigation.
+## useThrottle()
+  Similar to debounce, but instead of delaying the execution of a function, it limits the rate at which the function is called.
 
